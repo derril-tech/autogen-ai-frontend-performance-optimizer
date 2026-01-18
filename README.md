@@ -2,8 +2,6 @@
 
 **Powered by OpenAI & Multi-Agent Architecture**
 
-🌐 **[View Live Application](https://autogen-ai-frontend-performance-opt.vercel.app/)**
-
 > **Upload performance artifacts, analyze Core Web Vitals, and receive AI-powered optimization recommendations tailored for Next.js 16 and React 19.2—all in a seamless, modern interface.** 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -266,8 +264,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://autogen-ai-frontend-performance-opt.vercel.app/) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
